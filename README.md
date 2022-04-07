@@ -1,4 +1,4 @@
-[![aldubar's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1p4dvqu002109k1x3fvx39n/project/2045941)](https://github.com/JaeSeoKim/badge42)
+[![aldubar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1p4dvqu002109k1x3fvx39n/project/2045942)](https://github.com/JaeSeoKim/badge42)
 
 # ft_printf
 
